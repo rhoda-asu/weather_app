@@ -19,6 +19,6 @@ pip install -r requirements.txt
 5. Set up environment variables: You will need to create a .env file in the root of the project directory to store your weather API key:
 WEATHER_API_KEY=your_api_key_here
 
-6.Run the app:
+6. Run the app:
 python(3) manage.py runserver
 The app should now be running locally at http://127.0.0.1:8000.
